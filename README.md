@@ -1,56 +1,35 @@
-# Calculator
+# Calculator – Angular / TypeScript
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.8.
+Ce projet est une calculatrice développée avec Angular et TypeScript dans le cadre de ma formation en développement web.
 
-## Development server
+Je suis actuellement développeur en formation, et ce projet fait partie de mon parcours d’apprentissage. Mon objectif était de mettre en pratique les notions étudiées en réalisant une application simple mais fonctionnelle.
 
-To start a local development server, run:
+## Objectifs du projet
 
-```bash
-ng serve
-```
+Ce projet m’a permis de travailler notamment sur :
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- la logique de programmation ;
+- les fonctions et les conditions ;
+- la gestion des événements ;
+- les opérations mathématiques ;
+- l’interaction entre TypeScript et HTML ;
+- la gestion des erreurs ;
+- l’utilisation du clavier ;
+- l’historique des calculs.
 
-## Code scaffolding
+## Utilisation de ChatGPT
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+J’ai utilisé ChatGPT comme assistant pédagogique pendant le développement de ce projet.
 
-```bash
-ng generate component component-name
-```
+Son rôle était principalement de m’aider à comprendre les concepts, de me donner des pistes lorsque j’étais bloqué, de m’aider à identifier et corriger mes erreurs et de m’expliquer le fonctionnement de certaines parties du code.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+J’ai volontairement essayé d’écrire, tester et modifier le code moi-même afin de comprendre les solutions plutôt que de simplement copier du code généré.
 
-```bash
-ng generate --help
-```
+## Mon objectif
 
-## Building
+Ce projet ne cherche pas à présenter un niveau professionnel, mais à montrer concrètement ma progression en tant que développeur en formation.
 
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
+Je souhaite continuer à améliorer mes compétences à travers différents projets et utiliser GitHub pour conserver une trace de mon évolution.
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
